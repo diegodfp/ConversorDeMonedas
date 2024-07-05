@@ -1,4 +1,4 @@
-# Currency Converter
+# Conversor de monedas
 
 Este proyecto es un convertidor de monedas simple que utiliza la API de ExchangeRate-API para obtener las tasas de cambio en tiempo real. Creado para el desafio Alura.
 
